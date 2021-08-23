@@ -1,7 +1,0 @@
-c:\users\bini\source\repos\Short Story C1\Short Story C1\obj\Debug\Short Story C1.csprojAssemblyReference.cache
-c:\users\bini\source\repos\Short Story C1\Short Story C1\obj\Debug\Short Story C1.csproj.CoreCompileInputs.cache
-c:\users\bini\source\repos\Short Story C1\Short Story C1\bin\Debug\Short Story C1.exe.config
-c:\users\bini\source\repos\Short Story C1\Short Story C1\bin\Debug\Short Story C1.exe
-c:\users\bini\source\repos\Short Story C1\Short Story C1\bin\Debug\Short Story C1.pdb
-c:\users\bini\source\repos\Short Story C1\Short Story C1\obj\Debug\Short Story C1.exe
-c:\users\bini\source\repos\Short Story C1\Short Story C1\obj\Debug\Short Story C1.pdb
